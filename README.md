@@ -1,1 +1,1 @@
-# cse5280_animation_by_cost_function_minimization
+# CSE5280: Animation by cost-function minimization
